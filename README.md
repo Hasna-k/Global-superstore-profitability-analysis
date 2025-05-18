@@ -57,4 +57,4 @@ Or view the summary insights via the PDF slide deck
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn] or via email if you'd like to discuss this project further.
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/hasna-kingu-a4a675192) or via [email](kinguhasna@gmail.com) if you'd like to discuss this project further.
