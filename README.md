@@ -1,12 +1,12 @@
 
 # Global Superstore: Sales & Profitability Analysis (2012–2015)
 
-*Data Analyst:* Hasna Kingu  
-*Date:* May 2025
+**Data Analyst:** Hasna Kingu  
+**Date:** May 2025
 
 ## Objective
 
-*Business Question:*  
+**Business Question:**  
 Which customer segments and product categories should we prioritize to maximize profitability and growth between 2016 and 2018?
 
 This project analyzes historical sales and profit data from 2012 to 2015 to inform strategic decisions moving forward.
@@ -25,17 +25,17 @@ The Power BI dashboard tracks:
 
 ## Key Insights
 
-- *Top Segment:* Consumer (51.66% of total sales, 567K profit)
-- *Top Product Category:* Technology (14.46% profit margin, 547.9K profit)
-- *Best Region by Profit:* Europe (323.95K)
-- *Underperforming Areas:* Home Office segment and Furniture category
+- **Top Segment:** Consumer (51.66% of total sales, 567K profit)
+- **Top Product Category:** Technology (14.46% profit margin, 547.9K profit)
+- **Best Region by Profit:** Europe (323.95K)
+- **Underperforming Areas:** Home Office segment and Furniture category
 
 ---
 
 ## Tools Used
 
-- *Power BI* for data modelling using DAX, visualization and dashboard development
-- *Power Query Editor* for data cleaning, transformation and preliminary analysis.
+- **Power BI** for data modelling using DAX, visualization and dashboard development
+- **Power Query Editor** for data cleaning, transformation and preliminary analysis.
 
 ---
 
