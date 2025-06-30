@@ -34,8 +34,8 @@ The Power BI dashboard tracks:
 
 ## Tools Used
 
-- *Power BI* for data visualization and dashboard development
-- *Excel* for data cleaning and preliminary analysis
+- *Power BI* for data modelling using DAX, visualization and dashboard development
+- *Power Query Editor* for data cleaning, transformation and preliminary analysis.
 
 ---
 
